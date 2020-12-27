@@ -1,4 +1,12 @@
-### Hi there, I'm Dmitry Soldatkin 👋
+### Hi there 👋 I'm Dmitry Soldatkin 
+
+Senior technology professional with over 20 years of experience designing, building, deploying and managing enterprise applications.
+Experienced technical leader very well vested in cloud services design and key architect of cloud data solutions.
+
+📫 How to reach me: 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-soldatkin-73823a47/)
+
 
 <!--
 **dsoldatkin/dsoldatkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
